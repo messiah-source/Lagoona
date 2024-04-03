@@ -4,6 +4,3 @@
 - БЭМ
 - Flexbox
 - Переполнение
-
-# Figma
-https://www.figma.com/file/tjkkfkHDXlGscyVbS3emln/Lagoona
